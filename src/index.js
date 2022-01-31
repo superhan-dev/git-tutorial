@@ -17,3 +17,9 @@ console.log("log:", temp);
  * 우선은 direct commit 부터 연습해 보겠습니다.
  */
 console.log("direct commit");
+
+/**
+ * 다른 파일까지 함께 올라가는지 확인하기 위해 temp.js를 만들고
+ * 현재 파일에서 direct commit을 실시해 보겠습니다.
+ * 결과는요?
+ */
